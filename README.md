@@ -19,6 +19,9 @@ image 에 filter를 거쳐 해당 이미지의 Feature를 쉽게 뽑아낼 수 �
 sobel-x / sobel-y
 
 1)https://gruuuuu.github.io/machine-learning/cnn-doc/# 참고
+
 2)https://medium.com/@hobinjeong/cnn-convolutional-neural-network-9f600dd3b395 참고
+
 3)https://kr.mathworks.com/solutions/deep-learning/convolutional-neural-network.html 참고
+
 4)추후 유튜브 자료 참고
