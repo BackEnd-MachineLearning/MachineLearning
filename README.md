@@ -11,7 +11,7 @@ image 에 filter를 거쳐 해당 이미지의 Feature를 쉽게 뽑아낼 수 �
 예시 - sobel filter
 
 -1 0 1
--2 0 2    
+-2 0 2
 -1 0 1
 
 sobel-x / sobel-y
